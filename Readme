@@ -1,1 +1,5 @@
+
 ansible роль с добавлением юзера и без заливания  ключа pub 
+
+ansible роли zabbix-agent и redis 
+
